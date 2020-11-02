@@ -1,0 +1,5 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+cdn3.flowwow.com	0	0	1601917589	15768000
+megacvet24.ru	0	0	1601916673	31536000
